@@ -60,7 +60,7 @@ h1{
 }
 .heading2{
   display:flex;
-  transform: translate(63%, -440%);
+  transform: translate(63%, -300%);
 
 }
 .one {
@@ -68,11 +68,12 @@ h1{
   grid-row: 1;
   display: flex;
   justify-content: center;
-  transform: translate(25%, 20%);
+  transform: translate(25%, 50%);
 }
 .two {
   grid-column: 2 / 2;
   grid-row: 1;
+  transform: translate(0%, 20%);
 }
 .values{
   display:grid;
@@ -82,23 +83,23 @@ h1{
   grid-row: 1;
   display: flex;
   justify-content: center;
-  transform: translate(25%, 10%);
+  transform: translate(25%, 50%);
 }
 .four {
   grid-column: 2 / 2;
   grid-row: 1;
-  transform: translate(13%, 20%);
+  transform: translate(13%, 50%);
 }
 .goal{
   display:flex;
-  transform: translate(48%, -50%);
+  transform: translate(48%, 240%);
 }
 .container {
   position: relative;
   max-width: 400px; 
   margin: 0 auto; 
   display: flex;
-  transform: translate(-52%, -12%);
+  transform: translate(-52%, 60%);
 }
 
 .container .content {
@@ -115,7 +116,7 @@ h1{
   max-width: 400px; 
   margin: 0 auto; 
   display: flex;
-  transform: translate(55%, -112%);
+  transform: translate(55%, -40%);
 }
 .container2 .content2 {
   position: absolute; 
@@ -128,14 +129,14 @@ h1{
 }
 .title{
   display:flex;
-  transform: translate(42%, -450%);
+  transform: translate(42%, -60%);
 }
 .parent {
   position: relative;
   top: 0;
   left: 0;
   display: flex;
-  transform: translate(0%, -60%);
+  transform: translate(0%, -5%);
 }
 
 .image1 {
@@ -154,17 +155,17 @@ h1{
 
 .contact{
   display: flex;
-  transform: translate(10%, -120%);
+  transform: translate(10%, 70%);
 }
 .connect{
   display: flex;
-  transform: translate(280%, -35%);
+  transform: translate(280%, -50%);
   font-family: Arial, Helvetica, sans-serif;
   
 }
 .follow{
   display: flex;
-  transform: translate(35%, -200%);
+  transform: translate(35%, -10%);
 }
 .followUs{
   display: flex;
@@ -173,7 +174,7 @@ h1{
 }
 .map{
   display: flex;
-  transform: translate(70%, -220%);
+  transform: translate(65%, -100%);
 }
 footer{
   background-color: #9BE2F2;
